@@ -12,4 +12,4 @@ if temperatura < 10:
 elif temperatura < 25:
   st.write("La temperatura es agradable")
 else:
-  st.write("Hace calor")
+  st.write("Estan planchando al diabolo")
