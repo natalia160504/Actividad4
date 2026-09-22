@@ -7,7 +7,7 @@ temperatura= st.number_input(
   value=20
                             )
 
-if temperatura < 10:
+if temperatura < 5:
   st.write("Esta ice frio hielo")
 elif temperatura < 25:
   st.write("Esta bombastic")
